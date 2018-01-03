@@ -5,7 +5,7 @@
 gradle-app.setting
 
 # Idea
-.idea/*
+/.idea/*
 
 # Mac
 .DS_Store
